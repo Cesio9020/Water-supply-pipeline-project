@@ -16,7 +16,7 @@ The goal of this project is to compare alternative pipe diameters based on **tot
 - Discounted future costs
 
 All costs are evaluated relative to the **base year 2003**.
-Because the data about population growth is in range of 1900-1991, and 2003 is much closer for better accuracy.
+Because 2003 is the year of inauguration.
 ---
 
 ## ⚙️ Features
